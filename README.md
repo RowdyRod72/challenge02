@@ -1,2 +1,2 @@
 # challenge02
-rock, paper, scissors simulator
+My portfolio
